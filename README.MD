@@ -10,11 +10,11 @@
 
 
 <h3 align="left">Контакты:</h3>
-<p align="left">
- 	Почта: Karagichev2002@gmail.com
- 	Telegram: <a href='https://t.me/woobolt04'>@Woobolt04</a>
- 	LinkedIn: <a href='https://www.linkedin.com/in/andrey-karagichev-62055b1a8/'>AndrewK
-</p>
+<ul align="left">
+ 	<li>Почта: Karagichev2002@gmail.com</li>
+ 	<li>Telegram: <a href='https://t.me/woobolt04'>@Woobolt04</a></li>
+ 	<li>LinkedIn: <a href='https://www.linkedin.com/in/andrey-karagichev-62055b1a8/'>AndrewK</a></li>
+</ul>
 
 <h3 align="left">Стек технологий:</h3>
 <h4 align='left'>Frontend</h4>
