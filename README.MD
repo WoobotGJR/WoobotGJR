@@ -11,8 +11,9 @@
 
 <h3 align="left">Контакты:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrewk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/woobotgjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="woobotgjr" height="30" width="40" /></a>
+ 	Почта: Karagichev2002@gmail.com
+ 	Telegram: <a href='https://t.me/woobolt04'>@Woobolt04</a>
+ 	LinkedIn: <a href='https://www.linkedin.com/in/andrey-karagichev-62055b1a8/'>AndrewK
 </p>
 
 <h3 align="left">Стек технологий:</h3>
