@@ -2,7 +2,7 @@
 <h3 align="center">Я начинающий фронтенд разработчик</h3>
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" alt="Пингвин пишет программный код">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Пингвин пишет программный код">
 </div>
 <br>
 
