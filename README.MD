@@ -12,7 +12,7 @@
 
 <h3 align="left">Контакты:</h3>
 <ul align="left">
- 	<li>Почта: Karagichev2002@gmail.com</li>
+ 	<li>Почта: <a href='mailto:Karagichev2002@gmail.com>Karagichev2002@gmail.com</a></li>
  	<li>Telegram: <a href='https://t.me/woobolt04'>@Woobolt04</a></li>
  	<li>LinkedIn: <a href='https://www.linkedin.com/in/andrey-karagichev-62055b1a8/'>AndrewK</a></li>
 </ul>
