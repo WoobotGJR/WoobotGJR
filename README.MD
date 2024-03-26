@@ -26,16 +26,16 @@
 
 <h3 align="left">Стек технологий:</h3>
 <h4 align='left'>Frontend</h4>
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-- ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-- ![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-- ![SCSS](https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png)
-- ![Jest](https://jestjs.io/img/jest.svg)
-- ![Vite](https://vitejs.dev/logo.svg)
-- ![Webpack](https://webpack.js.org/icon-square-small.svg)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
+- <img src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png" alt="SCSS" width="50" height="50">
+- <img src="https://jestjs.io/img/jest.svg" alt="Jest" width="50" height="50">
+- <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
+- <img src="https://webpack.js.org/icon-square-small.svg" alt="Webpack" width="50" height="50">
 <br>
 <h4 align='left'>Backend</h4>
 <p align='left'> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
