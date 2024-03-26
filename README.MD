@@ -40,11 +40,20 @@
 </div>
 <br>
 <h4 align='left'>Backend</h4>
-<p align='left'> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
+<div>
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/spring-boot.png" alt="Spring Boot" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/spring-security.png" alt="Spring Security" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/nginx.png" alt="Nginx" width="50" height="50">
+  <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" width="50" height="50">
+</div>
 <br>
 
 <h3>Статистика:</h3>
