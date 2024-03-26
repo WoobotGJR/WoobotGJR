@@ -26,15 +26,15 @@
 
 <h3 align="left">Стек технологий:</h3>
 <h4 align='left'>Frontend</h4>
-<div align="center">
+<div>
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="50" height="50">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/nextjs.svg" alt="Next.js" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/sass.png" alt="SCSS" width="50" height="50">
-  <img src="https://img.icons8.com/color/96/000000/jest.png" alt="Jest" width="50" height="50">
+  <img src="https://jestjs.io/img/favicon/favicon.ico" alt="Jest" width="50" height="50">
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/webpack.png" alt="Webpack" width="50" height="50">
 </div>
