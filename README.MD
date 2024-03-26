@@ -43,7 +43,7 @@
 <div>
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring" width="50" height="50">
-  <img src="https://img.icons8.com/color/96/000000/junit.png" alt="JUnit" width="50" height="50">
+    <img src="https://img.icons8.com/ios-filled/50/000000/junit.png" alt="JUnit" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="50" height="50">
