@@ -13,7 +13,7 @@
 <br>
 На данный момент изучаю Java для backend-разработки
 <br>
-Планирую изучение Angular.js
+Изучаю Angular.js
 <br>
 Работаю над проектом platform-for-designers (check organizations)
 
