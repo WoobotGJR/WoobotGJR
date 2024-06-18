@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" width="50" height="50">
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="50" height="50">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50" style="background-color: white;">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/sass.png" alt="SCSS" width="50" height="50">
