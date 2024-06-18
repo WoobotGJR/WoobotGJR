@@ -13,9 +13,9 @@
 <br>
 На данный момент изучаю <a href='https://github.com/WoobotGJR/free-real-estate/tree/main/api'>NodeJS</a>, <a href='https://github.com/WoobotGJR/tik-talk'>AngularJS</a>
 <br>
-Совершенствую знания в frontend и backend разработке
+Совершенствую знания в <a href='https://github.com/WoobotGJR/react-native-app'>мобильной</a> \ <a href='https://github.com/WoobotGJR/spotify-clone'>frontend</a> и <a href=''https://github.com/WoobotGJR/products-project>backend</a> разработке
 <br>
-Изучаю computer science
+Изучаю <a href='https://github.com/WoobotGJR/DataStructuresAndAlgorithms'>computer science</a>
 
 <h3 align="left">Контакты:</h3>
 <ul align="left">
