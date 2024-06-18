@@ -37,6 +37,8 @@
   <img src="https://jestjs.io/img/favicon/favicon.ico" alt="Jest" width="50" height="50">
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
   <img src="https://img.icons8.com/color/96/000000/webpack.png" alt="Webpack" width="50" height="50">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="50" height="50">
+
 </div>
 <br>
 <h4 align='left'>Backend</h4>
