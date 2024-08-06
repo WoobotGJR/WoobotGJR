@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Андрей</h1>
-<h3 align="center">Я fullstack разработчик</h3>
+<h3 align="center">Я frontend разработчик</h3>
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Пингвин пишет программный код">
