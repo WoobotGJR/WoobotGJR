@@ -11,11 +11,11 @@
 С отличием закончил университет по технической специальности "Электроника и наноэлектроника" ("Nanomachines, son!"). С программированием знаком давно, начинал программировать на C\C++, имею некоторый опыт программирования на Python. Однако больше всего меня заинтересовала разработка на JS \ Node. С приходом программирования моя жизнь сильно изменилась и теперь не могу представить свой день без написания кода или решения тематических задач
 <br>
 <br>
-На данный момент изучаю <a href='https://github.com/WoobotGJR/free-real-estate/tree/main/api'>NodeJS</a>, <a href='https://github.com/WoobotGJR/tik-talk'>AngularJS</a>
+На данный момент изучаю Backend-разработку и инфраструктурную сторону проектов :memo:
 <br>
-Совершенствую знания в <a href='https://github.com/WoobotGJR/react-native-app'>мобильной</a> \ <a href='https://github.com/WoobotGJR/spotify-clone'>frontend</a> и <a href='https://github.com/WoobotGJR/products-project'>backend</a> разработке
+Совершенствую знания в Frontend-разработке :fire:
 <br>
-Изучаю <a href='https://github.com/WoobotGJR/DataStructuresAndAlgorithms'>computer science</a>
+Изучаю CS :blue_book:
 
 <h3 align="left">Контакты:</h3>
 <ul align="left">
