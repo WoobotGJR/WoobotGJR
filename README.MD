@@ -23,9 +23,9 @@
 
 <h3 align="left">Контакты:</h3>
 <ul align="left">
- 	<li>Почта: <a href='mailto:ak.work211@gmail.com'>ak.work211@gmail.com</a></li>
- 	<li>Telegram: <a href='https://t.me/ankar04'>@ankar04</a></li>
- 	<li>LinkedIn: <a href='https://www.linkedin.com/in/ankar221/'>Andrei Karagichev</a></li>
+ 	<li>Почта: <a href='mailto:akwork244@gmail.com'>akwork244@gmail.com</a></li>
+ 	<li>Telegram: <a href='https://t.me/ak0work'>@ak0work</a></li>
+ 	<li>LinkedIn: <a href='https://www.linkedin.com/in/andrey-karagichev/'>Andrei Karagichev</a></li>
 </ul>
 
 <h3 align="left">Стек технологий:</h3>
